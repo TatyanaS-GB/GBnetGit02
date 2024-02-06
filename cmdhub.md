@@ -6,3 +6,8 @@
 
 * git push
 
+  ## Инициализация папки в VScod
+
+  *git init
+  
+
